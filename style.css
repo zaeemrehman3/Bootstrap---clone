@@ -1,0 +1,22 @@
+
+
+h1 {
+    color: var(--blue);
+}
+
+table{
+    color: var(--red);
+}
+
+ul{
+    color: var(--red);
+}
+p{
+    background-color: var(--red);
+    color: white;
+} 
+
+
+.custom-green{
+    background-color: rgb(114, 170, 114);
+}
